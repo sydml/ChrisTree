@@ -5,10 +5,10 @@ import { GestureType } from '../types';
 
 // Use local images from resources/pictures folder
 const PHOTO_URLS = [
-    'public/pictures/iShot_2025-12-15_16.39.02.jpg',
-    'public/pictures/iShot_2025-12-15_16.39.39.jpg',
-    'public/pictures/iShot_2025-12-15_16.39.46.jpg',
-    'public/pictures/iShot_2025-12-15_16.39.55.jpg'
+    '/pictures/iShot_2025-12-15_16.39.02.jpg',
+    '/pictures/iShot_2025-12-15_16.39.39.jpg',
+    '/pictures/iShot_2025-12-15_16.39.46.jpg',
+    '/pictures/iShot_2025-12-15_16.39.55.jpg'
 ];
 
 interface FloatingPhotosProps {
