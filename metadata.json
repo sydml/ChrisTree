@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Tree",
+  "description": "A 3D interactive Christmas Tree controlled by hand gestures (Fist to build, Palm to explode).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
