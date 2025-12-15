@@ -77,12 +77,12 @@ const App: React.FC = () => {
       </div>
 
       {/* UI Overlay */}
-      <div className="absolute top-0 left-0 w-full p-6 z-10 pointer-events-none flex justify-between items-start">
-        <div>
+      <div className="absolute top-0 left-0 w-full p-6 z-10 pointer-events-none flex justify-center items-start">
+        <div className="text-center">
           <h1 className="text-4xl font-bold tracking-tight bg-gradient-to-r from-yellow-200 via-yellow-400 to-yellow-600 bg-clip-text text-transparent drop-shadow-lg">
-            Merry Christmas
+              可乐的圣诞树🎄
           </h1>
-          <p className="text-yellow-100/70 text-sm mt-1">Interactive Particle Tree</p>
+          {/*<p className="text-yellow-100/70 text-sm mt-1">Interactive Particle Tree</p>*/}
         </div>
       </div>
 
